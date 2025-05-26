@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Assistive SeeingEyes</string>
+    <string name="title_activity_main">Assistive SeeingEyes</string>
+    <string name="package_name">com.assistiveseeingeyes.app</string>
+    <string name="custom_url_scheme">com.assistiveseeingeyes.app</string>
+</resources>
