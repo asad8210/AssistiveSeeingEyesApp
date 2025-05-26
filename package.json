@@ -25,6 +25,7 @@
     "@capacitor/geolocation": "^5.0.7",
     "@capacitor/haptics": "^5.0.7",
     "@capacitor/toast": "^5.0.7",
+    "@opentelemetry/exporter-jaeger": "^1.23.0",
     "@genkit-ai/googleai": "^1.8.0",
     "@genkit-ai/next": "^1.8.0",
     "@hookform/resolvers": "^4.1.3",
