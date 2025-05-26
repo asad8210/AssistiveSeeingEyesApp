@@ -1,5 +1,2 @@
-# Firebase Studio
+# Assistive-SeeingEyes with API calling Feature
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
